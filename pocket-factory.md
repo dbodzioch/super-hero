@@ -10,7 +10,7 @@
 
 # POCKET FACTORY
 
-<img src="side_effects/pocket_factory.png" width="50">
+![Side Effect](side_effects/pocket_factory.png)
 
 During this event, all battle items have a chance of not being consumed after use.
 In Rare difficulty, this chance is 80%, in Epic 70% and in Legendary 50%.
@@ -33,6 +33,10 @@ which reflects all damage and status effects from their own element.
 |   9   |   🟢    | 6 | 🟢&nbsp;&nbsp;🟣 | 🟡 JONATHAN <br> 🔵 DORIAN <br> 🔴 BLAZE     |  979 <br> 987 <br> 978   |  643 <br> 648 <br> 642   |  3120 <br> 3145 <br> 3115   |
 |  10   |   🟡    | 6 | 🟡&nbsp;&nbsp;🔵 | 🟣 CELESTE <br> 🔴 BLAZE <br> 🟢 AZUREBIND   | 1207 <br> 1148 <br> 1145 |  792 <br> 753 <br> 752   |  3847 <br> 3160 <br> 3650   |
 
+### REWARDS
+
+![Rare Rewards](rewards/pocket_factory_rare.PNG)
+
 ## EPIC
 
 | Stage | Reflect | ⚡ |     Monsters     | Boss                                           |           🗡️            |           🛡️            |            ❤️            |
@@ -47,6 +51,10 @@ which reflects all damage and status effects from their own element.
 |   8   |   🟣    | 6 | 🟣&nbsp;&nbsp;🔴 | 🔵 CRYSTAL <br> 🟢 VERDANTRON <br> 🟡 THALOR   | 1476 <br> 1514 <br> 1473 | 1076 <br> 1104 <br> 1074 | 5228 <br> 5361 <br> 5216 |
 |   9   |   🟢    | 7 | 🟢&nbsp;&nbsp;🟣 | 🟡 THALOR <br> 🔵 CRYSTAL <br> 🔴 PYRO         | 1526 <br> 1480 <br> 1581 | 1114 <br> 1080 <br> 1154 | 5407 <br> 5242 <br> 5602 |
 |  10   |   🟡    | 7 | 🟡&nbsp;&nbsp;🔵 | 🟣 TENERBIS <br> 🔴 PYRO <br> 🟢 VERDANTRON    | 2514 <br> 2454 <br> 2499 | 1500 <br> 1464 <br> 1491 | 7286 <br> 7112 <br> 7244 |
+
+### REWARDS
+
+![Epic Rewards](rewards/pocket_factory_epic.PNG)
 
 ## LEGENDARY
 
@@ -63,25 +71,29 @@ which reflects all damage and status effects from their own element.
 |   9   |   🟢    | 8 | 🟢&nbsp;&nbsp;🟣 | 🟡 GLORIVA <br> 🔵 FROSTBANE <br> 🔴 VULCAN | 2253 <br> 2237 <br> 2087 | 1479 <br> 1468 <br> 1370 | 7182 <br> 7132 <br> 2087 |
 |  10   |   🟡    | 8 | 🟡&nbsp;&nbsp;🔵 | 🟣 MORGANA <br> 🔴 VULCAN <br> 🟢 LINDEN    | 2751 <br> 2642 <br> 2652 | 1642 <br> 1576 <br> 1583 | 7976 <br> 7657 <br> 7687 |
 
-### Hero Legend
+### REWARDS
 
-| Name          | Image                                            | Skill                                                                                                                                                                                                                                                 |
-|---------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🔵 DORIAN     | <img src="hero_heads/dorian.png" width="70">     | ● Deals 269% damage to the target. <br> ● Applies Fragile to them for 6 turns <br> ● Fragile: Gains -22% defence                                                                                                                                      |
-| 🟡 JONATHAN   | <img src="hero_heads/jonathan.png" width="70">   | ● Deals 269% damage to the target. <br> ● Applies Blind to them for 4 turns <br> ● Blind: Gains -23% accuracy                                                                                                                                         |
-| 🔴 BLAZE      | <img src="hero_heads/blaze.png" width="70">      | ● Deals 249% damage to the target. <br> ● Reduces their energy by -25%                                                                                                                                                                                |
-| 🟣 CELESTE    | <img src="hero_heads/celeste.png" width="70">    | ● Deals 204% damage to the target. <br> ● All allies heal for 12% of the damage dealt.                                                                                                                                                                |
-| 🟢 AZUREBIND  | <img src="hero_heads/azurebind.png" width="70">  | ● Applies Sustained Might to all allies for 5 turns. <br> ● Sustained Might: Gains 33% attack, and extra 10% attack each turn.                                                                                                                        |
-| 🔵 CRYSTAL    | <img src="hero_heads/crystal.png" width="70">    | ● Deals 314% damage to the target. <br> ● Dispels all buffs from all enemies.                                                                                                                                                                         |
-| 🔴 PYRO       | <img src="hero_heads/pyro.png" width="70">       | ● Deals 149% damage to all enemies. <br> ● Applies Burn to them for 6 turns <br> ● Burn: Takes a total of 34% of caster's base attack as damage over turns.                                                                                           |
-| 🟡 THALOR     | <img src="hero_heads/thalor.png" width="70">     | ● Deals 284% damage to the target. <br> ● Reduces their energy by -25%.                                                                                                                                                                               |
-| 🟣 TENERBIS   | <img src="hero_heads/tenerbis.png" width="70">   | ● Deals 264% damage to the target and minor damage to nearby enemies. <br> ● Applies Fragile to them for 6 turns. <br> ● Fragile: Gains -22% defence.                                                                                                 |
-| 🟢 VERDANTRON | <img src="hero_heads/verdantron.png" width="70"> | ● Deals 314% damage to the target. <br> ● Applies Ability Weaken to them for 3 turns. <br> ● Dispels all buffs from all enemies. <br> ● Ability Weaken: Gains -6% ability attack.                                                                     |
-| 🔵 FROSTBANE  | <img src="hero_heads/frostbane.png" width="70">  | ● Deals 389% damage to the target. <br> ● Applies Armored to caster and nearby allies for 4 turns. <br> ● Armored: Gains 51% defence.                                                                                                                 |
-| 🟡 GLORIVA    | <img src="hero_heads/glorivia.png" width="70">   | ● Deals 437% damage to the target. <br> ● Applies Blind, Stagger to them for 6 turns. <br> ● Blind: Gains -28% accuracy. <br> ● Stagger: Each time taking damage from normal attacks or abilities, nearby enemies also take 6% of the damage.         |
-| 🔴 VULCAN     | <img src="hero_heads/vulcan.png" width="70">     | ● Deals 174% damage to all enemies. <br> ● Applies Burn to them for 6 turns. <br> ● Applies Precision to caster for 6 turns <br> ● Burn: Takes a total of 34% of caster's base attack as damage over turns. <br> ● Precision: Gains 6% critical rate. |
-| 🟣 MORGANA    | <img src="hero_heads/morgana.png" width="70">    | ● Deals 174% damage to all enemies. <br> ● Applies Burn to them for 6 turns. <br> ● Applies Precision to caster for 6 turns <br> ● Burn: Takes a total of 34% of caster's base attack as damage over turns. <br> ● Precision: Gains 6% critical rate. |
-| 🟢 LINDEN     | <img src="hero_heads/linden.png" width="70">     | ● Deals 239% damage to all enemies. <br> ● Applies Blunted to them for 6 turns. <br> ● Blunted: Gains -22% attack.                                                                                                                                    |
+![Legendary Rewards](rewards/pocket_factory_legendary.PNG)
+
+## Hero Legend
+
+| Name          | Image                                    | Skill                                                                                                                                                                                                                                                 |
+|---------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔵 DORIAN     | ![DORIAN](hero_heads/dorian.png)         | ● Deals 269% damage to the target. <br> ● Applies Fragile to them for 6 turns <br> ● Fragile: Gains -22% defence                                                                                                                                      |
+| 🟡 JONATHAN   | ![JONATHAN](hero_heads/jonathan.png)     | ● Deals 269% damage to the target. <br> ● Applies Blind to them for 4 turns <br> ● Blind: Gains -23% accuracy                                                                                                                                         |
+| 🔴 BLAZE      | ![BLAZE](hero_heads/blaze.png)           | ● Deals 249% damage to the target. <br> ● Reduces their energy by -25%                                                                                                                                                                                |
+| 🟣 CELESTE    | ![CELESTE](hero_heads/celeste.png)       | ● Deals 204% damage to the target. <br> ● All allies heal for 12% of the damage dealt.                                                                                                                                                                |
+| 🟢 AZUREBIND  | ![AZUREBIND](hero_heads/azurebind.png)   | ● Applies Sustained Might to all allies for 5 turns. <br> ● Sustained Might: Gains 33% attack, and extra 10% attack each turn.                                                                                                                        |
+| 🔵 CRYSTAL    | ![CRYSTAL](hero_heads/crystal.png)       | ● Deals 314% damage to the target. <br> ● Dispels all buffs from all enemies.                                                                                                                                                                         |
+| 🔴 PYRO       | ![PYRO](hero_heads/pyro.png)             | ● Deals 149% damage to all enemies. <br> ● Applies Burn to them for 6 turns <br> ● Burn: Takes a total of 34% of caster's base attack as damage over turns.                                                                                           |
+| 🟡 THALOR     | ![THALOR](hero_heads/thalor.png)         | ● Deals 284% damage to the target. <br> ● Reduces their energy by -25%.                                                                                                                                                                               |
+| 🟣 TENERBIS   | ![TENERBIS](hero_heads/tenerbis.png)     | ● Deals 264% damage to the target and minor damage to nearby enemies. <br> ● Applies Fragile to them for 6 turns. <br> ● Fragile: Gains -22% defence.                                                                                                 |
+| 🟢 VERDANTRON | ![VERDANTRON](hero_heads/verdantron.png) | ● Deals 314% damage to the target. <br> ● Applies Ability Weaken to them for 3 turns. <br> ● Dispels all buffs from all enemies. <br> ● Ability Weaken: Gains -6% ability attack.                                                                     |
+| 🔵 FROSTBANE  | ![FROSTBANE](hero_heads/frostbane.png)   | ● Deals 389% damage to the target. <br> ● Applies Armored to caster and nearby allies for 4 turns. <br> ● Armored: Gains 51% defence.                                                                                                                 |
+| 🟡 GLORIVA    | ![GLORIVA](hero_heads/gloriva.png)       | ● Deals 437% damage to the target. <br> ● Applies Blind, Stagger to them for 6 turns. <br> ● Blind: Gains -28% accuracy. <br> ● Stagger: Each time taking damage from normal attacks or abilities, nearby enemies also take 6% of the damage.         |
+| 🔴 VULCAN     | ![VULCAN](hero_heads/vulcan.png)         | ● Deals 174% damage to all enemies. <br> ● Applies Burn to them for 6 turns. <br> ● Applies Precision to caster for 6 turns <br> ● Burn: Takes a total of 34% of caster's base attack as damage over turns. <br> ● Precision: Gains 6% critical rate. |
+| 🟣 MORGANA    | ![MORGANA](hero_heads/morgana.png)       | ● Deals 174% damage to all enemies. <br> ● Applies Burn to them for 6 turns. <br> ● Applies Precision to caster for 6 turns <br> ● Burn: Takes a total of 34% of caster's base attack as damage over turns. <br> ● Precision: Gains 6% critical rate. |
+| 🟢 LINDEN     | ![LINDEN](hero_heads/linden.png)         | ● Deals 239% damage to all enemies. <br> ● Applies Blunted to them for 6 turns. <br> ● Blunted: Gains -22% attack.                                                                                                                                    |
 
 
 
